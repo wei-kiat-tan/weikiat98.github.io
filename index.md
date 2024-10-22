@@ -1,12 +1,3 @@
-<img src="https://github.com/user-attachments/assets/b8931507-0487-48a2-913b-89ff400dd38b" alt="WhatsApp Image 2024-05-02" width="300">
-
-
-
-
-
-
-
-
 ## About Me
 
 Hi, I’m <a  style="font-weight:bold" href="https://www.linkedin.com/in/wei-kiat-tan/">Wei Kiat </a>, Welcome to my Github page! I am currently a Master's student studying a Master's degree in Analytics and Visualisation (MAVI) programme at Singapore University of Social Science (SUSS). Prior to this, I pursued and graduated a Bachelor's degree of Science in Economics and Politics from University of London. 
@@ -25,4 +16,3 @@ This section contains works from my time taking this course offered by SUSS wher
 ## Other Involvements
 
 Outisde work, I enjoy gaming, gym and spend time for my interest in history. Some of the games I play are wuthering waves, Genshin Impact and World of Warships. 
-
