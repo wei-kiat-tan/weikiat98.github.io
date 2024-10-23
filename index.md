@@ -15,4 +15,4 @@ This section contains works from my time taking this course offered by SUSS wher
 
 ## Other Involvements
 
-Outisde work, I enjoy gaming, gym and spend time for my interest in history. Some of the games I play are wuthering waves, Genshin Impact and World of Warships. 
+Outisde work, I enjoy gaming, gym and spend time for my interest in history. Some of the games I play are Wuthering waves, Genshin Impact and World of Warships. 
