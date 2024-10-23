@@ -9,7 +9,10 @@ Currently, I use R as my programming language and Tableau to do data visualisati
 
 <a  style="font-weight:bold" href="https://public.tableau.com/app/profile/wei.kiat/vizzes/">Tableau Public Page
 
-ANL501 Data Visualisation and Storytelling
+This page contains my works using Tableau, one of the famous software for data visualisation and analysis.
+
+
+R programming Portfolio
 
 This section contains works from my time taking this course offered by SUSS where I use R language to perform data import, cleaning, manipulation, visualisation and lastly storytelling.
 
