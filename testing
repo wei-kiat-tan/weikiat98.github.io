@@ -1,0 +1,6 @@
+~ $ git clone https://github.com/wei-kiat-tan/weikiat98.github.io.git
+~ $ cd weikiat98.github.io
+~ $ echo "Hello Welcome to my Github page!" > index.md
+~ $ git add --all
+~ $ git commit -m "Initial commit"
+~ $ git push -u origin main
