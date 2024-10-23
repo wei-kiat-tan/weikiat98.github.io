@@ -14,7 +14,7 @@ This page contains my works using Tableau, one of the famous software for data v
 
 R programming Portfolio
 
-This section contains works from my time taking this course offered by SUSS where I use R language to perform data import, cleaning, manipulation, visualisation and lastly storytelling.
+This section contains mainly works from my time taking this course offered by SUSS where I use R language to perform data import, cleaning, manipulation, visualisation and lastly storytelling. Personal work using R language can also be found in this section.
 
 ## Other Involvements
 
