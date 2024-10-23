@@ -12,7 +12,7 @@ Currently, I use R as my programming language and Tableau to do data visualisati
 This page contains my works using Tableau, one of the famous software for data visualisation and analysis.
 
 
-R programming Portfolio
+<a  style="font-weight:bold" href="https://wei-kiat-tan.github.io/R-programming-Portfolio/">R programming Portfolio
 
 This section contains mainly works from my time taking this course offered by SUSS where I use R language to perform data import, cleaning, manipulation, visualisation and lastly storytelling. Personal work using R language can also be found in this section.
 
