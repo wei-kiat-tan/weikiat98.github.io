@@ -5,16 +5,16 @@ Hi, I’m <a  style="font-weight:bold" href="https://www.linkedin.com/in/wei-kia
 
 ## My Works
 
-Currently, I use R as my programming language and Tableau to do data visualisations and storytelling. My R works and Tableau Public Profile can be found in the link below.
+Currently, I use R as my programming language and Tableau to do data visualisations and storytelling. 
 
-<a  style="font-weight:bold" href="https://public.tableau.com/app/profile/wei.kiat/vizzes/">Tableau Public Page
+1. <a  style="font-weight:bold" href="https://public.tableau.com/app/profile/wei.kiat/vizzes/">Tableau Public Page
 
 This page contains my works using Tableau, one of the famous software for data visualisation and analysis.
 
 
-<a  style="font-weight:bold" href="https://wei-kiat-tan.github.io/R-programming-Portfolio/">R programming Portfolio
+2. <a  style="font-weight:bold" href="https://wei-kiat-tan.github.io/R-programming-Portfolio/">R programming Portfolio
 
-This section contains mainly works from my time taking this course offered by SUSS where I use R language to perform data import, cleaning, manipulation, visualisation and lastly storytelling. Personal work using R language can also be found in this section.
+This page contains mainly works from my time taking this course offered by SUSS where I use R language to perform data import, cleaning, manipulation, visualisation and lastly storytelling. Personal work using R language can also be found in this page.
 
 ## Other Involvements
 
