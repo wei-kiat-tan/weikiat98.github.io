@@ -16,6 +16,10 @@ This page contains my works using Tableau, one of the famous software for data v
 
 This page contains mainly works from my time taking this course offered by SUSS where I use R language to perform data import, cleaning, manipulation, visualisation and lastly storytelling. Personal work using R language can also be found in this page.
 
+3. <a  style="font-weight:bold" href="">Python programming Portfolio
+
+This page contains works using Python to perform data import, cleaning, manipulation, visualisation and lastly storytelling. 
+
 ## Other Involvements
 
 Outisde work, I enjoy gaming, gym and spend time for my interest in history. Some of the games I play are Wuthering waves, Genshin Impact and World of Warships. 
